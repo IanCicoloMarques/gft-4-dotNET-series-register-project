@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gft-4-dotNET-series-register-project", "gft-4-dotNET-series-register-project\gft-4-dotNET-series-register-project.csproj", "{111217DE-0319-4035-BD7A-96A85F8A5DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111217DE-0319-4035-BD7A-96A85F8A5DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111217DE-0319-4035-BD7A-96A85F8A5DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111217DE-0319-4035-BD7A-96A85F8A5DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111217DE-0319-4035-BD7A-96A85F8A5DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
